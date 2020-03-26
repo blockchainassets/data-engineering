@@ -1,0 +1,8 @@
+'''
+
+Pivoting and the index
+Prior to using .pivot(), you need to set the index of the DataFrame somehow. Is this statement True or False?
+
+'''
+
+False
